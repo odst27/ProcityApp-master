@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Procity</string>
+    <string name="unique">Unique</string>
+    <string name="generic">Generic</string>
+    <string name="prompt">Select Donation type</string>
+    <string name="donatenow">Donate now!</string>
+    <string name="category">Category:</string>
+    <string name="checkboxtxt">Accept Terms and Conditions (posted on website)</string>
+    <string name="selectpic">Select a picture</string>
+    <string name="descp">Description:</string>
+    <string name="item">Item:</string>
+    <string name="subcat">Subcategory:</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    
+</resources>

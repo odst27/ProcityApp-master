@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+	
+	<ListView
+	    android:id="@+id/feedarea"
+	    android:layout_width="fill_parent"
+	    android:layout_height="0dp" 
+	    android:layout_weight="0.51"/>
+
+  	<ImageButton
+  	    android:id="@+id/refersh"
+  	    android:layout_width="match_parent"
+  	    android:layout_height="wrap_content"
+  	    android:layout_gravity="right"
+  	    android:onClick="onRefresh"
+  	    android:src="@drawable/ic_tab_name_unselected" />
+
+</LinearLayout>
